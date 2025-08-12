@@ -122,7 +122,5 @@ Techniques like Sparse Models and Mixture of Experts (MoE) aim to make LLMs more
 
 Fine-tuning and Prompt Engineering help adapt general-purpose models for specialized tasks with reduced training costs.
 
-
-
 # Result
 Generative AI and LLMs are at the forefront of AI research, driving innovation across various domains. While scaling has unlocked new capabilities, ethical and computational challenges must be addressed for sustainable advancements. The future of generative AI will likely involve a balance between model efficiency, accessibility, and responsible AI deployment.
